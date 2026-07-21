@@ -1,0 +1,6 @@
+num1 = int(input("enter the first number:"))
+num2 = int(input("enter second number:"))
+quetient = (num1 // num2)
+Remainder =(num1%num2)
+print("Quetient is:",quetient)
+print("Remainder is:",Remainder)
